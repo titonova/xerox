@@ -1,7 +1,7 @@
 import os
 import telebot
 
-API_KEY = "1933071153:AAGtgkS6j5LI4IkWSe3jPH6k0DeI-cgJ5cc"
+API_KEY = "put ur own api key"
 
 COMMANDS = {
     
